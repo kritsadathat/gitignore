@@ -1,4 +1,4 @@
-# A collection of `.gitignore` templates
+<script src="https://gist.github.com/octocat/9257657.js"></script># A collection of `.gitignore` templates
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
 We use this list to populate the `.gitignore` template choosers available
